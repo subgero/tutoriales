@@ -1,6 +1,8 @@
 # Como crear una cuenta en AWS Services
 
-![Diagrama](images/1.webp)
+<p align="center">
+  <img src="images/1.webp" />
+</p>
 
 El primer paso para migrar hacia la nube con AWS Services es creando una cuenta, en este artículo vamos a crear una cuenta desde cero.
 
