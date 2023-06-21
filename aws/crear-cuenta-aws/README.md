@@ -92,4 +92,4 @@ Felicidades, ya puedes empezar a crear tus aplicaciones y proyectos!
 
 Plus: Como medida de seguridad se recomienda activar la autenticación multifactor (MFA), para esto puedes seguir el siguiente enlace.
 
-https://github.com/subgero/tutoriales/tree/main/activar-mfa-cuenta-aws
+https://github.com/subgero/tutoriales/aws/tree/main/activar-mfa-cuenta-aws
