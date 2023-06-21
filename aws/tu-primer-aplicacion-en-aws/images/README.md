@@ -1,1 +1,0 @@
-# Crea tu primer carga de trabajo en AWS
